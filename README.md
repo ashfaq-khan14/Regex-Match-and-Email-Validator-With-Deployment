@@ -17,7 +17,8 @@ Regular Expressions (Regex): Used for pattern matching and validation.
 
 Installation
 
-To run the application locally, clone the repository and install the required dependencies using pip install -r requirements.txt. Then, run the Flask application using python app.py and access it in your web browser at http://localhost:5000.
+To run the application locally, clone the repository and install the required dependencies using pip install -r requirements.txt. Then, run the Flask application using python app.py and access it in your web browser at http://127.0.0.1:5000/results![image](https://github.com/ashfaq-khan14/Regex-Match-and-Email-Validator-With-Deployment/assets/120010803/89f287be-28e8-47b3-801a-df959d991392)
+
 
 Contributing
 
